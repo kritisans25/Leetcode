@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/kritisans25/Leetcode/tree/master/0189-rotate-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kritisans25/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1260-shift-2d-grid](https://github.com/kritisans25/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kritisans25/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1260-shift-2d-grid](https://github.com/kritisans25/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/kritisans25/Leetcode/tree/master/0203-remove-linked-list-elements) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/kritisans25/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
