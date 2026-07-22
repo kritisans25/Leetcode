@@ -14,17 +14,12 @@ public:
         return res;
     }
     int minBitFlips(int start, int goal) {
-        string st=decimalToBinary(start);
-        string g=decimalToBinary(goal);
-        if (st.size() < g.size()) {
-            st = string(g.size() - st.size(), '0') + st;
-        } else if (g.size() < st.size()) {
-            g = string(st.size() - g.size(), '0') + g;
+        int x=start^goal;
+        string res=decimalToBinary(x);
+        int count=0;
+        for(int i=0;i<res.size();i++){
+            if(res[i]=='1')count++;
         }
-        int c=0;
-        for(int i=0;i<st.size();i++){
-            if(st[i]!=g[i]) c++;
-        }
-        return c;
+        return count;
     }
 };
