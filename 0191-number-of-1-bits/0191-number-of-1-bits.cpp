@@ -9,6 +9,7 @@ public:
             }
             n=n/2;
         }
+        reverse(res.begin(),res.end());
         return res;
     }
     int hammingWeight(int n) {
