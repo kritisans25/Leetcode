@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/kritisans25/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kritisans25/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/kritisans25/Leetcode/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/kritisans25/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kritisans25/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kritisans25/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kritisans25/Leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/kritisans25/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kritisans25/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/kritisans25/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/kritisans25/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kritisans25/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/kritisans25/Leetcode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/kritisans25/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
