@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/kritisans25/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/kritisans25/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0189-rotate-array](https://github.com/kritisans25/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kritisans25/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kritisans25/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -97,4 +98,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/kritisans25/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/kritisans25/Leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
