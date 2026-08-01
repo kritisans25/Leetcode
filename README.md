@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kritisans25/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kritisans25/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kritisans25/Leetcode/tree/master/0204-count-primes) |
 | [0342-power-of-four](https://github.com/kritisans25/Leetcode/tree/master/0342-power-of-four) |
@@ -115,9 +116,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kritisans25/Leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/kritisans25/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kritisans25/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kritisans25/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
