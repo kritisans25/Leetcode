@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/kritisans25/Leetcode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kritisans25/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kritisans25/Leetcode/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/kritisans25/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/kritisans25/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kritisans25/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0746-min-cost-climbing-stairs](https://github.com/kritisans25/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/kritisans25/Leetcode/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/kritisans25/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Counting Sort
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kritisans25/Leetcode/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/kritisans25/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Game Theory
 |  |
 | ------- |
