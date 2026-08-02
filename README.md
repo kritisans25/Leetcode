@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/kritisans25/Leetcode/tree/master/0260-single-number-iii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kritisans25/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kritisans25/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/kritisans25/Leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/kritisans25/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kritisans25/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kritisans25/Leetcode/tree/master/0204-count-primes) |
 | [0342-power-of-four](https://github.com/kritisans25/Leetcode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kritisans25/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/kritisans25/Leetcode/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/kritisans25/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/kritisans25/Leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/kritisans25/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0877-stone-game](https://github.com/kritisans25/Leetcode/tree/master/0877-stone-game) |
 ## Counting Sort
 |  |
 | ------- |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kritisans25/Leetcode/tree/master/0070-climbing-stairs) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kritisans25/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
