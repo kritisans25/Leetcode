@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kritisans25/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/kritisans25/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/kritisans25/Leetcode/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/kritisans25/Leetcode/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kritisans25/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kritisans25/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/kritisans25/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kritisans25/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kritisans25/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/kritisans25/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/kritisans25/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kritisans25/Leetcode/tree/master/0344-reverse-string) |
 ## String
 |  |
