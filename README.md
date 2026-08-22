@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kritisans25/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/kritisans25/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kritisans25/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/kritisans25/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/kritisans25/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kritisans25/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/kritisans25/Leetcode/tree/master/0204-count-primes) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/kritisans25/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kritisans25/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/kritisans25/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/kritisans25/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kritisans25/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/kritisans25/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
