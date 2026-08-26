@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/kritisans25/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/kritisans25/Leetcode/tree/master/0344-reverse-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kritisans25/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kritisans25/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/kritisans25/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kritisans25/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kritisans25/Leetcode/tree/master/3731-find-missing-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kritisans25/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
