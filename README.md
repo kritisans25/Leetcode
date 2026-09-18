@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/kritisans25/Leetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/kritisans25/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/kritisans25/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kritisans25/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/kritisans25/Leetcode/tree/master/0048-rotate-image) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kritisans25/Leetcode/tree/master/0035-search-insert-position) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kritisans25/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/kritisans25/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
