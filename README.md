@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kritisans25/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kritisans25/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kritisans25/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kritisans25/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kritisans25/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kritisans25/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kritisans25/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kritisans25/Leetcode/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kritisans25/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kritisans25/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
