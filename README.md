@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/kritisans25/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kritisans25/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/kritisans25/Leetcode/tree/master/0645-set-mismatch) |
+| [0740-delete-and-earn](https://github.com/kritisans25/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/kritisans25/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/kritisans25/Leetcode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/kritisans25/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kritisans25/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/kritisans25/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kritisans25/Leetcode/tree/master/0213-house-robber-ii) |
+| [0740-delete-and-earn](https://github.com/kritisans25/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/kritisans25/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/kritisans25/Leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/kritisans25/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/kritisans25/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kritisans25/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/kritisans25/Leetcode/tree/master/0645-set-mismatch) |
+| [0740-delete-and-earn](https://github.com/kritisans25/Leetcode/tree/master/0740-delete-and-earn) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kritisans25/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kritisans25/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kritisans25/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
