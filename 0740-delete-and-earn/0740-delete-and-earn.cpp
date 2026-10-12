@@ -1,0 +1,30 @@
+
+class Solution {
+public:
+    int deleteAndEarn(vector<int>& nums) {
+        if (nums.empty()) return 0;
+
+        int maxi = *max_element(nums.begin(), nums.end());
+
+        vector<int> points(maxi + 1, 0);
+
+        for (int i = 0; i < nums.size(); i++) {
+            points[nums[i]] += nums[i];
+        }
+
+        vector<int> dp(maxi + 1, 0);
+
+        dp[0] = points[0];
+
+        if (maxi >= 1) {
+            dp[1] = max(points[0], points[1]);
+        }
+
+        for (int i = 2; i <= maxi; i++) {
+            dp[i] = max(dp[i - 1],
+                        dp[i - 2] + points[i]);
+        }
+
+        return dp[maxi];
+    }
+};
