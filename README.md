@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kritisans25/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kritisans25/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kritisans25/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kritisans25/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kritisans25/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kritisans25/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kritisans25/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kritisans25/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kritisans25/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/kritisans25/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kritisans25/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kritisans25/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kritisans25/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kritisans25/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kritisans25/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kritisans25/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kritisans25/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kritisans25/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
